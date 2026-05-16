@@ -60,7 +60,7 @@ Project Preview Photo:
 🔗 Social Links
 
 GitHub Profile
-https:\\github.com\NeeleshK10
+[https:\\github.com\NeeleshK10](url)
 
 LinkedIn
 https:\\www.linkedin.com/in/neeleshk1011
@@ -85,8 +85,8 @@ Publish Directory: Dist Folder
 
 🌐 Live Preview
 
-https:\\my-personal-portfolio-neeleshk.netlify.app
-
+[https:\\my-personal-portfolio-neeleshk.netlify.app
+](url)
 📞 Contact
 
 📧 Email:  neeleshkannan30@gmail.com
