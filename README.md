@@ -59,7 +59,7 @@ Project Preview Photo:
 
 🔗 Social Links
 
-GitHub Profile [GitHub ProfileLink](https:\\github.com\NeeleshK10)
+GitHub Profile [GitHub Profile](https://github.com/NeeleshK10)
 
 LinkedIn  https:\\www.linkedin.com/in/neeleshk1011
 
