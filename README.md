@@ -59,7 +59,7 @@ Project Preview Photo:
 
 🔗 Social Links
 
-GitHub Profile [https:\\github.com\NeeleshK10](url)
+GitHub Profile [GitHub ProfileLink:](https:\\github.com\NeeleshK10)
 
 LinkedIn  https:\\www.linkedin.com/in/neeleshk1011
 
@@ -81,8 +81,7 @@ Build Command: npm run build
 
 Publish Directory: Dist Folder
 
-🌐 Live Preview  [https:\\my-personal-portfolio-neeleshk.netlify.app
-](url)
+🌐 Live Preview  [MyPersonal_Portfolio_Website](https://my-personal-portfolio-neeleshk.netlify.app)
 
 📞 Contact
 
